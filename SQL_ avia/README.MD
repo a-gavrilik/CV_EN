@@ -1,5 +1,14 @@
 # **SQL**
 
+### Stack:
+- PostgreSQL
+  - Subquery
+  - JOIN
+  - VIEW
+  - PARTITION BY
+  - CTE
+  - EXCEPT
+
 ### Task Description:
 
 1. Restore database from *.backup file by following link **[avia](https://drive.google.com/file/d/1U15gYuu_ZFE2sQMN32GXK3phBLcUl6OM/view)**. 

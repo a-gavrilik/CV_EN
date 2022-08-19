@@ -1,5 +1,13 @@
 # **A/B testing**
 
+### Stack:
+- Python
+  - Pandas
+  - Numpy
+  - scipy.stats
+    - ttest_ind
+    - chi2_contingency
+
 ### Task Description:
 
 One of the main tasks of analytics in our team is correct conduct of experiments. For this we use the A/B-testing method. In the course of testing one hypothesis, the task force was proposed a new mechanism of payment for services on the site, the control group remained basic mechanics. As a task you need to analyze the results of the experiment and make a conclusion whether to run the new payment mechanism on all users.
